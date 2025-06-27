@@ -64,7 +64,7 @@ The Azure backend is no longer active, but each component remains operational as
 
 **Christos Baboulis**  
 GitHub: [@ChristosBaboulis](https://github.com/ChristosBaboulis)  
-Email: christos.baboulis@gmail.com
+Email: chrisb2603@gmail.com
 
 ---
 
